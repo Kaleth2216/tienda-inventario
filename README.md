@@ -20,5 +20,5 @@ Antes de instalar, asegúrate de tener instalado:
 
 ### 1️⃣ Clonar el Repositorio
 ```sh
-git clone https://github.com/TU_USUARIO/api-inventario.git
+git clone https://github.com/Kaleth2216/tienda-inventario.git
 cd api-inventario
